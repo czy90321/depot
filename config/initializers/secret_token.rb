@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-DepotGit_::Application.config.secret_token = 'ac53d3c8a03e460ff3c530356c338384aa9449f7aeef5eb60074fad2f7f530bca9dbb8cc97e12d41638a3c65c7b9f4fb25478468006383604555ddc6e3ce81be'
+Depot::Application.config.secret_token = 'de0b18dd1c43b3ab78ac03267ea5e078de024c9c9e6b02cb070632f78ee4d9bee34a170287364de5543c4b282092007520a260e56132867def130e209855ef63'
