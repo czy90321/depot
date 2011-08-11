@@ -1,4 +1,6 @@
 Depot::Application.routes.draw do
+  resources :questions
+
   get "store/show"
 
   resources :comments
